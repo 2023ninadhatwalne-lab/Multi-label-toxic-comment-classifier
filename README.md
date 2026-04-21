@@ -179,7 +179,11 @@ You are stupid idiot
 This project demonstrates how **NLP and Machine Learning** can be used to detect toxic comments effectively. The system provides accurate predictions along with visualization, making it useful for real-world applications like content moderation.
 
 ---
+## Dataset
 
+Due to size limitations, the dataset is not included in this repository.
+
+📥 [Download Dataset](https://drive.google.com/file/d/1a0yvb8bR0hjrdjLg1zxK-nWP29bPpIqQ/view?usp=sharing)
 ## ▶️ How to Run
 
 1. Install dependencies:
