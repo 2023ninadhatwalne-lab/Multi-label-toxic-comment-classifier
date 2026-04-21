@@ -93,21 +93,26 @@ Online platforms face issues with harmful and abusive comments. This project bui
 
 ### 🔹 7. Evaluation Metrics
 
-* Accuracy
-* Precision
-* Recall
-* F1 Score
+* Accuracy:91.99%
+* Precision:0.8661
+* Recall:0.5803
+* F1 Score:0.6949
 * Confusion Matrix (for each label)
-
+<img width="558" height="474" alt="image" src="https://github.com/user-attachments/assets/04df685a-9e6b-4754-9c5d-b2aa1dc7335e" />
+<img width="561" height="481" alt="image" src="https://github.com/user-attachments/assets/29f9f608-f6f4-4215-875f-0c5e7e5bfd32" />
+<img width="562" height="479" alt="image" src="https://github.com/user-attachments/assets/1d31ffb9-b3dd-4c1c-b99b-3412fced2e9f" />
+<img width="558" height="471" alt="image" src="https://github.com/user-attachments/assets/ec316222-6e22-4159-826f-72c457b955a9" />
+<img width="563" height="475" alt="image" src="https://github.com/user-attachments/assets/731ab7a9-d991-4fe3-9de3-49ec3a34705b" />
+<img width="562" height="465" alt="image" src="https://github.com/user-attachments/assets/5587ad17-3965-4d49-8fc8-101f4ab25157" />
 ---
 
 ### 🔹 8. Visualization
-
-* Confusion Matrix using heatmaps
 * Accuracy vs Iterations graph
+<img width="591" height="453" alt="image" src="https://github.com/user-attachments/assets/1c58faa6-8659-44ac-8968-b84629c6066f" />
 * Loss Curve
+<img width="574" height="457" alt="image" src="https://github.com/user-attachments/assets/62e4d5d5-f070-417d-9aec-6b353a082eae" />
 * Bar graph showing toxicity percentages
-
+* <img width="1603" height="899" alt="image" src="https://github.com/user-attachments/assets/858a3904-0e38-4985-9e49-caf7d063cd50" />
 ---
 
 ### 🔹 9. User Interface
